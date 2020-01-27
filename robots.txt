@@ -1,5 +1,6 @@
 # Group 1
 User-agent: *
 Allow: /
+Disallow: /resources/
 
 Sitemap: http://www.nsegall.net/sitemap.xml
